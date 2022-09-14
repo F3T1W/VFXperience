@@ -16,8 +16,8 @@ Rendering UML as code
 
 # Description
 VFXperience is my Niagara/UE5 learning project based on tutorial project:
-[CGHOW](https://www.youtube.com/playlist?list=PLwMiBtF6WzsqC7_cJmD26ts0YDbtPCCfe)
-[Unreal Magic](https://www.youtube.com/playlist?list=PLzJIbZSWGGtKKKNiOWMk77qtXr_c-nNyT)
+* [CGHOW](https://www.youtube.com/playlist?list=PLwMiBtF6WzsqC7_cJmD26ts0YDbtPCCfe)
+* [Unreal Magic](https://www.youtube.com/playlist?list=PLzJIbZSWGGtKKKNiOWMk77qtXr_c-nNyT)
 
 **Project contains**:
 - Clean, documentated system of Niagara emitters/modules/systems
