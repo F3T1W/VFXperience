@@ -22,6 +22,6 @@ VFXperience is my Niagara/UE5 learning project based on tutorial project:
 **Project contains**:
 - Clean, documentated system of Niagara emitters/modules/systems
 - Personalized examples of the most interesting particle systems
-- Micro expsition :3
+- Micro exposition :3
 
 Will be Updated...
